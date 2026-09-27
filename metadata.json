@@ -1,0 +1,6 @@
+{
+  "name": "MCUT Sign Maker",
+  "description": "Professional 3D dimensional channel letter designer for the signage industry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
